@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "bent": "^7.3.12",
+    "browser-id3-writer": "^4.4.0",
+    "express": "^4.17.1",
+    "ytdl-core": "^4.9.1"
+  },
+  "name": "yotube-downlod",
+  "version": "1.0.0",
+  "description": "Download video and audio from youtube",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "keywords": [
+    "Youtube",
+    "mp3",
+    "mp4",
+    "ytmp3",
+    "ytmp4"
+  ],
+  "author": "JonazBR",
+  "license": "MIT"
+}
